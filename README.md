@@ -1,4 +1,4 @@
-# LightBox image galary widget for Yii2 Framework
+# LightBox image galary widget for Yii2 Framework uses jQuery Lightbox v2.10.0 by Lokesh Dhakar
 
 The extension uses jQuery Lightbox v2.10.0 by Lokesh Dhakar and makes image galary from php array of structure defined.
 
