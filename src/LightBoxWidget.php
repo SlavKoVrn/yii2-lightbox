@@ -13,12 +13,6 @@ class LightBoxWidget extends Widget {
     public $height='';
     public $images=[];
 
-    public function init() {
-
-        parent::init();
-
-    }
-
     public function run() {
 
         parent::run();
