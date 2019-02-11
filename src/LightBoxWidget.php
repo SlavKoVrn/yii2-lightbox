@@ -49,5 +49,4 @@ class LightBoxWidget extends Widget {
         );
 
     }
-
 }
