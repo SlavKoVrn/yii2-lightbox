@@ -47,6 +47,7 @@ class LightBoxWidget extends Widget {
                 'depends'  => ['\yii\web\JqueryAsset'],
             ]
         );
+
     }
 
 }
