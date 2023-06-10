@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run:
 
 ```bash
-composer require slavkovrn/yii2-lightbox
+composer require salimkamboh/yii2-lightbox
 ```
 
 or add
 
 ```bash
-"slavkovrn/yii2-lightbox": "*"
+"salimkamboh/yii2-lightbox": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -31,7 +31,7 @@ Set link to extension in your view:
 
 ```php
 use kartik\grid\GridView;
-use slavkovrn\lightbox\LightBoxWidget;
+use salimkamboh\lightbox\LightBoxWidget;
 
 echo GridView::widget([
     'dataProvider' => $dataProvider,
@@ -73,4 +73,4 @@ echo GridView::widget([
     ],
 ]);
 ```
-<a href="mailto:slavko.chita@gmail.com">write comments to admin</a>
+<a href="mailto:salimkamboh@gmail.com">write comments to admin</a>
