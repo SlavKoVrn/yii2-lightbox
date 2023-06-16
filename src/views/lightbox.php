@@ -8,7 +8,7 @@ foreach($images as $image){
 		$vid='style="display:none"';
 	?>
     <a href="<?= $image['src'] ?>" data-lightbox="<?= $id ?>" data-title="<?= $image['title'] ?>" <?= $vid ?> >
-        <img height="<?= $height ?>" width="<?= $width ?>" src="<?= $image['src'] ?>" alt="<?= $image['title'] ?>" />
+        <img height="<?= $height ?>" width="<?= $width ?>" src="<?= $image['thumb'] ?>" alt="<?= $image['title'] ?>" />
 	</a>
 <?php } ?>
     

@@ -1,6 +1,6 @@
 <?php
 
-namespace slavkovrn\lightbox;
+namespace salimkamboh\lightbox;
 
 use yii\base\Widget;
 use yii\web\JqueryAsset;

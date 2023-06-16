@@ -1,25 +1,24 @@
 {
-    "name": "slavkovrn/yii2-lightbox",
-    "description": "Yii2 LightBox image galary widget uses Lightbox v2.10.0 by Lokesh Dhakar",
+    "name": "salimkamboh/yii2-lightbox",
+    "description": "Yii2 LightBox image gallery is some ammendment to SlavKoVrn/yii-lighbox",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "Image galary widget", "jQuery Lightbox v2.10.0 by Lokesh Dhakar"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Viacheslav Kolesnikov",
-            "email": "slavko.chita@gmail.com",
-            "homepage": "http://yii2.kadastrcard.ru"
+            "name": "Saleem Ahmed",
+            "email": "salimkamboh@gmail.com"
         }
     ],
     "support": {
-        "source": "https://github.com/SlavKoVrn/yii2-lightbox"
+        "source": "https://github.com/salimkamboh/yii2-lightbox"
     },
     "require": {
         "yiisoft/yii2": "~2.0"
     },
     "autoload": {
         "psr-4": {
-            "slavkovrn\\lightbox\\": "src/"
+            "salimkamboh\\lightbox\\": "src/"
         }
     },
     "extra": {
